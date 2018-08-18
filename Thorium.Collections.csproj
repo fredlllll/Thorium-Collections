@@ -6,4 +6,9 @@
     <RootNamespace>Thorium.Collections</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove=".git" />
+    <None Remove=".gitignore" />
+  </ItemGroup>
+
 </Project>
